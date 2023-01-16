@@ -1,2 +1,2 @@
 # prueba-repositorio1
-prueba de un repositorio desde github
+texto modificado desde visual   
